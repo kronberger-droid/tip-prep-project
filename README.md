@@ -1,3 +1,7 @@
+> **Moved:** this report now lives in the `report/` folder of
+> [kronberger-droid/tip-prep](https://github.com/kronberger-droid/tip-prep),
+> with its history. This repository is archived.
+
 # Tip Preparation
 
 Report written in [Typst](https://typst.app/), using the report template from
